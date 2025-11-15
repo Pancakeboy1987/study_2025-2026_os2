@@ -45,7 +45,7 @@ monofontoptions: Scale=MatchLowercase,Scale=0.9
 ::: {.column width="70%"}
 
   * Коровкин Никита Михайлович
-  * Студент
+  * Студент 2 курса
   * Российский университет дружбы народов
   * [1132246835@pfur.ru](mailto:1132246835@pfur.ru)
 
